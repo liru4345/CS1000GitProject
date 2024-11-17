@@ -1,1 +1,2 @@
 This is my personal text file for Lizzie Ruff
+I want to now try to push these updates into the Github repository.
