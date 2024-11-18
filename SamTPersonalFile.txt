@@ -1,2 +1,3 @@
 This is my first personal file that I have commited to the group's repository
 This is my first change to the file
+Here are my second changes
