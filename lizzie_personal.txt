@@ -1,2 +1,26 @@
-This is my personal text file for Lizzie Ruff
-I want to now try to push these updates into the Github repository.
+This is my personal text file for Lizzie Ruff and it includes my main takeaways from this class.
+
+1. Importance of Networking
+Building connections through LinkedIn, fraternity involvement, and alumni networks strengthens your professional circle.
+Leveraging mentors and experienced individuals for guidance on career paths, internships, and job opportunities.
+2. Broad Exploration of Computer Science Fields
+Learning about different roles such as software engineering, cybersecurity, and iOS development provides insight into potential career paths.
+Delving into trending topics like AI and exploring its applications in fields such as healthcare and business.
+3. Value of Practical Experience
+Engaging in GitHub projects, learning version control, and collaborating on team-based coding assignments provide hands-on learning.
+Experimenting with tools like Xcode and Swift for application development strengthens technical skills.
+4. Resources for Growth
+Utilizing university resources like career fairs, mentorship programs, and resume-building workshops to prepare for internships and jobs.
+Emphasizing participation in clubs and professional organizations like Kappa Theta Phi for peer learning and networking.
+5. Learning Through Challenges
+Struggling with GitHub repositories and complex projects teaches resilience and problem-solving.
+Realizing the need to adjust the complexity of projects to align with current skill levels.
+6. Building a Strong Foundation
+Exploring different programming languages and comparing them to understand their strengths and applications (e.g., C++ vs. Python vs. Java).
+Highlighting the importance of core skills such as problem-solving, algorithms, and system design.
+7. Career and Passion Alignment
+Discovering that following passions, like entrepreneurship or working in a specific field (e.g., robotics, startups), can lead to fulfilling careers.
+Balancing grades with practical experience to create a strong resume and portfolio.
+8. Focus on the Future
+Planning for study abroad opportunities while ensuring it aligns with academic goals.
+Understanding that niche expertise and staying ahead of trends (e.g., AI's role in coding jobs) will be key differentiators.
