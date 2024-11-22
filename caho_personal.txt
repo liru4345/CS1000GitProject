@@ -1,14 +1,14 @@
 my name is cassandra howard (caho3552@colorado.edu)
 & this is my personal file!
 
-nov 21 addition! vv
+-- nov 21 addition! vv
 
 I am a freshman here at CU Boulder and I'm studying computer science!
 Prior coming to Boulder and deciding to major in computer science I've never coded before,
-so I plan to slowly love my major as I progress!
+so I plan to gradually love my major as I progress!
+My plans for my entire term here is to earn my bachelor's and work in cybersecurity following graduation.
 
 I'm originally from North Carolina and moved here to Colorado in August.
 
 Some of my favortie hobbies are playing volleyball and crocheting!
 
-<img src="c:\Users\casho\OneDrive\Pictures\Roblox\RobloxScreenShot20220421_231123131.png">
